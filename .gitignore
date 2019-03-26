@@ -1,0 +1,7 @@
+.idea
+*/target/
+*.iml
+!.idea/runConfigurations
+!.idea/codeStyles
+*.log
+*/logs/
